@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mono.Net.HttpListener", "Mono.Net.HttpListener.csproj", "{B215459F-37FF-411C-8E6B-9CDEDB946F93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		net_4_0_Debug|Any CPU = net_4_0_Debug|Any CPU
+		net_4_0_Release|Any CPU = net_4_0_Release|Any CPU
+		net_4_5_Debug|Any CPU = net_4_5_Debug|Any CPU
+		net_4_5_Release|Any CPU = net_4_5_Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B215459F-37FF-411C-8E6B-9CDEDB946F93}.net_4_0_Debug|Any CPU.ActiveCfg = net_4_0_Debug|Any CPU
+		{B215459F-37FF-411C-8E6B-9CDEDB946F93}.net_4_0_Debug|Any CPU.Build.0 = net_4_0_Debug|Any CPU
+		{B215459F-37FF-411C-8E6B-9CDEDB946F93}.net_4_0_Release|Any CPU.ActiveCfg = net_4_0_Release|Any CPU
+		{B215459F-37FF-411C-8E6B-9CDEDB946F93}.net_4_0_Release|Any CPU.Build.0 = net_4_0_Release|Any CPU
+		{B215459F-37FF-411C-8E6B-9CDEDB946F93}.net_4_5_Debug|Any CPU.ActiveCfg = net_4_5_Debug|Any CPU
+		{B215459F-37FF-411C-8E6B-9CDEDB946F93}.net_4_5_Debug|Any CPU.Build.0 = net_4_5_Debug|Any CPU
+		{B215459F-37FF-411C-8E6B-9CDEDB946F93}.net_4_5_Release|Any CPU.ActiveCfg = net_4_5_Release|Any CPU
+		{B215459F-37FF-411C-8E6B-9CDEDB946F93}.net_4_5_Release|Any CPU.Build.0 = net_4_5_Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
